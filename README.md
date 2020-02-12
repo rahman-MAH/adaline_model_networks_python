@@ -1,6 +1,9 @@
 Title: Adaline model for only a pair of inputs and its targeted output
+
 Author: Md. Abdul Haq
+
 Date: 12th February,2020
+
 
 This is the Adaptive Linear element (Adaline) model which was proposed by Widrow heff in 1960.
 
